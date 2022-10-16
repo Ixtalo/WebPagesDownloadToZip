@@ -1,0 +1,9 @@
+{
+   "datadir": "./data",
+   "headers" : {
+      "User-Agent" : "Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/105.0"
+   },
+   "urls" : [
+      "https://www.heise.de"
+   ]
+}
